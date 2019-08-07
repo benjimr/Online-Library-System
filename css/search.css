@@ -1,0 +1,41 @@
+body 
+{
+	background-image : url("../Images/library.jpg");
+	font-family: Rockwell, “Courier Bold”, Courier, Georgia, Times, “Times New Roman”, serif;
+}
+
+
+
+fieldset
+{
+	border: 5px solid rgba(50,75,100,0.75);
+	border-radius: 5px;
+	width: 30%;
+	margin: auto;
+	background-color: rgba(200,150,150,0.3);
+}
+
+#box
+{
+	width:50%;
+	float:left;
+	text-align:right;
+	height:10%;
+}
+#button
+{
+	width:50%;
+	float:right;
+	text-align:left;
+	height:10%;
+}
+
+#home
+{
+	position:fixed;
+	top:18%;
+	right:35%;
+}
+
+
+
