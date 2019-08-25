@@ -1,5 +1,3 @@
-# Online Library System
-
 This system allows users to register/login, search a libraries database of books and reserve a copy if there is one available. The user can search by book title, author or category. The user can also view any reservations they have and remove them.
 
 ### Login Page
